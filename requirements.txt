@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pyYAML
+pymongo[srv]
+pydantic
+pytest
+coverage
